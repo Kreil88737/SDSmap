@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sdsmap"
+version = "1.0.0"
+description = "Supreme Duelist Stickman Map Library"
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [
+    {name = "kreil"}
+]
+dependencies = [] # Укажи здесь зависимости, если они появятся в будущем
+
+[project.urls]
+"Homepage" = "https://github.com/Kreil88737/sdsmap" # Ссылка на репозиторий, если есть
