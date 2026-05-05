@@ -11,7 +11,7 @@ requires-python = ">=3.7"
 authors = [
     {name = "kreil"}
 ]
-dependencies = [] # Укажи здесь зависимости, если они появятся в будущем
+dependencies = []
 
 [project.urls]
-"Homepage" = "https://github.com/Kreil88737/sdsmap" # Ссылка на репозиторий, если есть
+"Homepage" = "https://github.com/Kreil88737/sdsmap"
